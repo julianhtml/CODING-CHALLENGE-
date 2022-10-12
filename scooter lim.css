@@ -1,0 +1,108 @@
+
+
+
+/* INIZIO LOGO - TITOLO E BUTTONS */
+
+img{
+  width: 250px;
+  padding-top: 5%;
+}
+
+header {
+  text-align: center;
+}
+
+header h1{
+  color: rgb(3, 212, 5);
+  margin: 0%
+
+}
+
+/* fine LOGO - TITOLO E BUTTONS */
+
+/* BUTTONS */
+section>div{
+  text-align: center;
+
+
+}
+
+#barra-verde{
+  background-color: rgb(3, 212, 5);
+  width: 80%;
+  margin: auto;
+
+
+}
+/* BACKGROUND 1 - 2  */
+
+body{
+  background-image: url("background.jpg");
+  background-size: 101%;
+  background-position-x: 201%;
+
+
+}
+
+.sfondo-nero{
+
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+
+
+}
+
+/* FINE BACKGROUND */
+
+
+/* MAIN */
+
+.sezioni {
+  margin:auto;
+  width:79%
+
+
+}
+
+section h3{
+  display: inline-block;
+  color: white;
+  margin:0.1%;
+
+}
+
+
+
+.vie{
+  font-size: x-small;
+  font-family: Chalkboard;
+  color: white;
+}
+
+
+
+/* SEZIONE A  */
+#barra-carica{
+  background-color: rgb(250, 190, 88);
+  border-color: rgb(250, 190, 88);
+  width:25%
+}
+
+
+/* SEZIONE B */
+#barra-carica-2{
+  background-color: rgb(0, 255, 0);
+  border-color: rgb(0, 255, 0);
+  width:30%
+
+}
+
+
+/* SEZIONE C */
+#barra-carica-3{
+  background-color: rgb(220, 20, 60);
+  border-color:  rgb(220, 20, 60);
+  width:15%
+}
